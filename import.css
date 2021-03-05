@@ -1,7 +1,21 @@
 
 @import url('https://gibbu.github.io/BetterDiscord-Themes/AdjustableServerWidth/base.css');
 @import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
-
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css);
+.typeWindows-1za-n7 {position:relative}
+.wordmark-2iDDfm {
+  display:flex;
+  align-items:center;
+  padding:0 6px;
+  height:calc(100% + 4px);
+  top:-4px;
+  width:fit-content;
+  font-size:14px;
+  font-weight:600;
+  font-family: 'Discord';
+}
+.wordmark-2iDDfm > svg {display:none}
+.wordmark-2iDDfm:after {content:'Classify'}
 /* hi */
 /* dont touch any of this */
 
