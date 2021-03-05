@@ -1021,10 +1021,10 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
 .contentRegion-3nDuYy .tools-3-3s-N .keybind-KpFkfr {
     display: none;
 }
-.contentRegionScroller-26nc1e { 
+.theme-dark .contentRegionScroller-26nc1e { 
     background: #171a1f;
 }
-.sidebarRegion-VTFUkN {
+.theme-dark .sidebarRegion-VTFUkN {
     background: #22262E;
 }
 .theme-dark .progress-1IcQ3A {
