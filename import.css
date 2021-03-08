@@ -1043,4 +1043,6 @@ html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   display: flex;
   align-items: center;
 }
-
+.description-2L932D, .da-description{
+    display:none;
+}
