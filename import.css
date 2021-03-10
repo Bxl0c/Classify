@@ -105,75 +105,7 @@
 #app-mount .bg-h5JY_x {
   background: var(--background-dark);
 }
-/*this is for the toolbar*/
-.toolbar-1t6TWx{
-    position:absolute;
-    right:150px;
-    background-color:var(--background-tertiary);
-    height:35px;
-    border-radius:50px;
-    margin-right:10px;
-    width:350px;
-}
-/*This is for the channel name, hover over the @ or # and it will expand*/
-.children-19S4PO{
-    background-color:var(--background-tertiary);
-    border-radius:25px;
-    height:35px;
-    margin-right:820px;
-    transition-property:margin-right;
-    transition-duration:1s;
-}
-.children-19S4PO:hover{
-    margin-right:505px;
-}
-.children-19S4PO::after{
-    content:none;
-}
-/*Status Picker Area*/
-#status-picker{
-    width:45px;
-    height:200px;
-}
-.description-2L932D{
-    display:none;
-}
-[aria-label="Edit Custom Status"]{
-    opacity:0;
-}
-/*credit to Doggybootsy#1333 from the powercord discord server for the snippet below*/
-/*This makes the search button an icon*/
-.search-36MZv- {order: 5;}
-.searchBar-3dMhjb {
-    width: 28px;
-    transition: width 0.6s ease-in-out;
-    color:#fff;
-    background-color: #202225;
-    background: none;
-}
-.focused-31_ccS .searchBar-3dMhjb,
-.open-6_Y_aH .searchBar-3dMhjb,
-.searchBar-3dMhjb:hover {
-    width: 180px;
-    background: var(--background-tertiary);
-}
-.icon-3cZ1F_{height: 24px;width: 24px;color:var(--interactive-normal);}
-.iconContainer-O4O2CN{bottom: 3px;}
-.search-36MZv-{margin-left: 0px;}
-/*User Area Collapse*/
-.container-3baos1{
-    position:absolute;
-    z-index:500;
-    top:8px;
-    right:50px;
-    background-color:var(--background-tertiary);
-    border-radius:25px;
-    height:35px;
-    width:140px;
-}
-[aria-label="Click to copy username"]{
-    display:none;
-}
+
 ::selection {
   background: rgba(var(--accent), 1);
   color: #fff;
