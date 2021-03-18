@@ -1,3 +1,4 @@
+/* :) */
 
 @import url('https://gibbu.github.io/BetterDiscord-Themes/AdjustableServerWidth/base.css');
 @import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
@@ -21,8 +22,7 @@
 }
 .wordmark-2iDDfm > svg {display:none}
 .wordmark-2iDDfm:after {content:'Classify'}
-/* hi */
-/* dont touch any of this */
+
 
 :root {
   --accent: 63,81,181;
