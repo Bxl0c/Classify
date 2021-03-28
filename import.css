@@ -3,4 +3,80 @@
 @import url('https://bxl0c.github.io/Classify/SettingsIcons.css');
 
 
+/* SettingsUI */
+layer-3QrUeG[aria-label="RTC_DEBUG"],
+.layer-3QrUeG[aria-label*="SETTINGS"] {
+    width: 900px;
+    height: 100%;
+    display: block;
+    margin: auto auto;
+    border-radius: 5px;
+    margin-bottom: 120px;
+    top: 60px;
+    position: relative;
+}
+.layers-3iHuyZ .layer-3QrUeG:first-of-type[style*="scale(0"],
+.baseLayer-35bLyl {
+    transform: none !important;
+}
+.layers-3iHuyZ .layer-3QrUeG:first-of-type[aria-hidden="true"] {
+    transform: none !important;
+    opacity: 1 !important;
+    filter: brightness(0.3);
+    pointer-events: none !important;
+    transition: 100ms;
+}
+.standardSidebarView-3F1I7i {
+    top: 0px !important;
+}
+.sidebar-CFHs9e {
+    padding: 30px 6px 30px 20px;
+}
+.contentColumn-2hrIYH {
+    padding: 30px 40px 30px !important;
+}
+.tools-3-3s-N .closeButton-1tv5uR::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vw;
+    z-index: -1;
+    cursor: default;
+}
+.tools-3-3s-N .closeButton-1tv5uR {
+    transform: none;
+    background: transparent;
+    z-index: -1;
+}
+.contentRegion-3nDuYy .tools-3-3s-N {
+    position: relative;
+}
+.contentRegion-3nDuYy .toolsContainer-1edPuj {
+    position: absolute;
+}
+.contentRegion-3nDuYy .tools-3-3s-N .keybind-KpFkfr {
+    display: none;
+}
+.theme-dark .contentRegionScroller-26nc1e { 
+    background: #171a1f;
+}
+.theme-dark .sidebarRegion-VTFUkN {
+    background: #22262E;
+}
+.theme-dark .progress-1IcQ3A {
+  background: #171a1f;
+}
+.theme-dark .notches-1sAcEM.gray-3_LNYR {
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='%23171a1f'%3E%3Cpath fill-rule='evenodd' d='M0 0h8v20H0V0zm4 2a2 2 0 00-2 2v12a2 2 0 104 0V4a2 2 0 00-2-2z'/%3E%3C/svg%3E");
+}
+#app-mount .layer-3QrUeG[aria-label=USER_SETTINGS] .side-8zPYf6 > .item-PXvHYJ {
+  display: flex;
+  align-items: center;
+}
+.description-2L932D, .da-description{
+    display:none;
+}
+
 
