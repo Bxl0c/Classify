@@ -81,7 +81,21 @@ layer-3QrUeG[aria-label="RTC_DEBUG"],
 .item-PXvHYJ{
     color: gray !important;
 }
+.contentColumn-2hrIYH{
+    background-color: black;
+}
 
+.sidebar-CFHs9e{
+    background-color: black;
+}
+
+.background-1QDuV2{
+    background-color: black;
+}
+
+.accountList-33MS45{
+    background-color: black;
+}
 
 
 
@@ -89,7 +103,11 @@ layer-3QrUeG[aria-label="RTC_DEBUG"],
 
 /* MainUI */
 
-.bg-h5jY_x .da-bg{
-    color: gray
+.bg-h5JY_x{
+    background-color: black;
 }
+
+
+
+
 
